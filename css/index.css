@@ -1,0 +1,1047 @@
+.top{
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #d2d2d2;
+}
+.top-top{
+    height: 50px;
+}
+.top-left{
+    width: 320px;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    position: relative;
+}
+.img-two{
+    position: absolute;
+    margin-top: -33px;
+}
+.img-three{
+    position: absolute;
+    margin-top: -30px;
+    margin-left:94px;
+}
+.img-fore{
+    position: absolute;
+    margin-top: -33px;
+    margin-left:277px;
+}
+.top-right{
+    width: 265px;
+    height: 50px;
+    float: right;
+}
+.top-content{
+    width: 100%;
+    height: 50px;
+    margin-top: 23px;
+}
+.top-one{
+    width:1180px;
+    height:50px;
+    line-height: 50px;
+}
+.top-oneleft{
+    width: 224px;
+    float: left;
+    height:47px;
+}
+.img{
+    width: 244px;
+    height: 47px;
+}
+.top-oneright{
+    width:630px;
+    float: right;
+    height: 47px;
+}
+.top-oneright ul li{
+    float: left;
+    padding: 5px 35px 0 40px;
+    font-size: 16px;
+    color: #9c9c9c;
+    height: 35px;
+    line-height: 35px;
+}
+.top-oneright ul li a {
+    font-size: 16px;
+    color: #9c9c9c;
+    height: 35px;
+}
+.top-oneright ul li a:hover{
+    color: pink;
+}
+.img-one{
+    float: right;
+    margin-right:20px;
+    margin-top: 4px;
+}
+
+.box{
+    width: 1920px;
+    height:665px;
+    position: relative;
+    overflow: hidden;
+    margin-top:17px;
+}
+.box .banner{
+    width: 7800px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.box .banner div{
+    width: 1920px;
+    height:665px;
+    float: left;
+}
+.box .banner div img{
+    width: 100%;
+    height: 100%;
+}
+.box ul{
+    position: absolute;
+    bottom:10px;
+    right:20px;
+}
+/*.box ul li{*/
+    /*width: 20px;*/
+    /*height: 20px;*/
+    /*border-radius: 50%;*/
+    /*background-color: lightblue;*/
+    /*float: left;*/
+    /*margin-right: 5px;*/
+    /*cursor: pointer;*/
+/*}*/
+/*.box ul li.on{*/
+    /*background: lightcoral;*/
+/*}*/
+/*.box a{*/
+    /*position: absolute;*/
+    /*width: 43px;*/
+    /*height: 53px;*/
+    /*top: 127px;*/
+    /*background-image: url("../img/pre.png");*/
+    /*cursor: pointer;*/
+    /*opacity: 0.2;*/
+    /*display: none;*/
+
+/*}*/
+/*.box a:hover{*/
+    /*opacity: 1;*/
+/*}*/
+/*.box .btnLeft{*/
+    /*left: 17px;*/
+    /*margin-top:180px;*/
+    /*background-position: 0 0;*/
+
+/*}*/
+/*.box .btnRight{*/
+    /*right: 5px;*/
+    /*margin-top:180px;*/
+    /*background-position: -50px 0;*/
+/*}*/
+
+
+.nav{
+    width: 100%;
+    height:50px;
+    margin-top: 27px;
+}
+.nav-one{
+    width: 1180px;
+}
+.img-six{
+    height:50px;
+    line-height:50px;
+    margin-left: 170px;
+}
+.nav-two{
+    width: 100%;
+    height:25px;
+    margin-top: 5px;
+}
+.nav-three{
+    width: 614px;
+    height:25px;
+}
+.nav-three ul li{
+    float: left;
+    padding: 5px 14px 0 2px;
+    height:25px;
+    line-height: 25px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.nav-three ul li:hover{
+    color: pink;
+}
+.img-seven{
+    width: 100%;
+    height: 531px;
+    margin-top:15px;
+}
+.img-eight{
+    width: 1178px;
+    height: 531px;
+}
+.a{
+    float: left;
+}
+.b{
+    float: left;
+}
+.c {
+    float: left;
+}
+.d{
+     float: left;
+ }
+.e{
+    float: left;
+}
+.navv{
+    width: 100%;
+    height:50px;
+    margin-top: 25px;
+}
+.nav-onee{
+    width: 1180px;
+}
+.img-sixx{
+    height:50px;
+    line-height:50px;
+    margin-left: 170px;
+}
+.nav-twoo{
+    width: 100%;
+    height:25px;
+    margin-top: 5px;
+}
+.nav-threee{
+    width:1180px;
+    height:25px;
+}
+.nav-threee ul li{
+    float: left;
+    padding: 5px 14px 0 2px;
+    height:25px;
+    line-height: 25px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.nav-threee ul li:hover{
+    color: pink;
+}
+.img-ten{
+    width: 100%;
+    height: 490px;
+    margin-top:15px;
+}
+.img-tenn{
+    width: 1920px;
+    height:620px;
+}
+.img-onen{
+    width:1920px;
+    height:620px;
+}
+.img-o{
+    width: 100%;
+    height: 106px;
+    margin-top: 160px;
+}
+.img-oa{
+    width: 1180px;
+    height: 105px;
+}
+.img-ob{
+    float: left;
+    transition: transform 1s linear;
+}
+.img-ob:hover{
+    transform: scale(1.5);
+}
+.img-oc{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-oc:hover{
+    transform: scale(1.5);
+}
+.img-od{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-od:hover{
+    transform: scale(1.5);
+}
+.img-oe{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-oe:hover{
+    transform: scale(1.5);
+}
+.img-of{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-of:hover{
+    transform: scale(1.5);
+}
+.img-og{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-og:hover{
+    transform: scale(1.5);
+}
+.aa{
+    width: 100%;
+    height:27px;
+    line-height: 27px;
+    margin-top: 11px;
+}
+.bb{
+    width: 1180px;
+    height:27px;
+}
+.cc{
+    width: 476px;
+    float: left;
+}
+.cc ul li{
+    float: right;
+    padding: 5px 14px 0 2px;
+    height:27px;
+    line-height: 27px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.cc ul li:hover{
+    color: pink;
+}
+.img-aa{
+    float: left;
+    margin-top:7px;
+}
+.ba{
+    width: 169px;
+    height: 27px;
+    float: right;
+}
+.an{
+    font: bold 13px "宋体";
+    color: red;
+}
+.niu{
+    width: 100%;
+    height:50px;
+    margin-top: 25px;
+}
+.niuqiang{
+    width: 1180px;
+}
+.niuu {
+    height: 50px;
+    line-height: 50px;
+    margin-left: 170px;
+}
+.nav-twoo{
+    width: 100%;
+    height:25px;
+    margin-top: 5px;
+}
+.nav-niu{
+    width:1180px;
+    height:25px;
+}
+.nav-niu ul li{
+    float: left;
+    padding: 5px 14px 0 2px;
+    height:25px;
+    line-height: 25px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.nav-niu ul li :hover{
+    color: pink;
+}
+.woo{
+    width: 100%;
+    height: 618px;
+    margin-top: 17px;
+}
+.woerr{
+    width: 1920px;
+    height: 618px;
+}
+.woainii{
+    width: 1920px;
+    height: 618px;
+}
+.img-oo{
+    width: 100%;
+    height: 106px;
+    margin-top:24px;
+}
+.img-oaa{
+    width: 1180px;
+    height: 105px;
+}
+.img-obb{
+    float: left;
+    transition: transform 1s linear;
+}
+.img-obb:hover{
+    transform: scale(1.5);
+}
+.img-occ{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-occ:hover{
+    transform: scale(1.5);
+}
+.img-odd{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-odd:hover{
+    transform: scale(1.5);
+}
+.img-oee{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-oee:hover{
+    transform: scale(1.5);
+}
+.img-off{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-off:hover{
+    transform: scale(1.5);
+}
+.img-ogg{
+    float: left;
+    margin-left: 8px;
+    transition: transform 1s linear;
+}
+.img-ogg:hover{
+    transform: scale(1.5);
+}
+.aaa{
+    width: 100%;
+    height:27px;
+    line-height: 27px;
+    margin-top: 11px;
+}
+.bbb{
+    width: 1180px;
+    height:27px;
+}
+.ccc{
+    width: 476px;
+    float: left;
+}
+.ccc ul li{
+    float: right;
+    padding: 5px 14px 0 2px;
+    height:27px;
+    line-height: 27px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.ccc ul li:hover{
+    color: pink;
+}
+.img-aaa{
+    float: left;
+    margin-top:7px;
+}
+.baa{
+    width: 169px;
+    height: 27px;
+    float: right;
+}
+.ann{
+    font: bold 13px "宋体";
+    color: red;
+}
+.navvv{
+    width: 100%;
+    height:50px;
+    margin-top:27px;
+}
+.nav-oneee{
+    width: 1180px;
+    height:50px;
+}
+.img-sixxx{
+    height:50px;
+    line-height:50px;
+    margin-left: 170px;
+}
+.nav-twooo{
+    width: 100%;
+    height:25px;
+    margin-top: 5px;
+}
+.nav-threeee{
+    width: 614px;
+    height:25px;
+}
+.nav-threeee ul li{
+    float: left;
+    padding: 5px 12px 0 2px;
+    height:25px;
+    line-height: 25px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.nav-threeee ul li:hover{
+    color: pink;
+}
+.s{
+    width: 100%;
+    height: 561px;
+    margin-top: 18px;
+}
+.su{
+    width: 1920px;
+    height: 561px;
+}
+.img-i{
+    width: 1920px;
+    height: 561px;
+}
+.y{
+    width: 100%;
+    height: 663px;
+}
+.ya{
+    width:1180px;
+    height:663px;
+}
+.yadong{
+    width:385px;
+    height: 663px;
+    float: left;
+}
+.yadongxin{
+    width:385px;
+    height: 663px;
+    float: left;
+    margin-left: 11px;
+    transition: transform .5s linear;
+}
+.yadongxin:hover{
+    background-color:mediumslateblue;
+    transform:transLateX(-8px);
+}
+.yaxin{
+    width:385px;
+    height: 663px;
+    float: right;
+    transition: transform .5s linear;
+}
+.yaxin:hover {
+    transform: transLateX(8px);
+}
+.s-one{
+    width: 384px;
+    height: 318px;
+    background-color:#FAFAFA;
+    position: relative;
+    margin-top:15px;
+    overflow: hidden;
+}
+.s-one img{
+    width: 365px;
+    height: 244px;
+    margin-top: 10px;
+    margin-left: 10px;
+    transition: transform 2s linear;
+}
+.s-one img:hover{
+    transform: scale(1.4);
+}
+.s-one b ,a{
+    position: absolute;
+}
+.s-one b{
+    left: 90px;
+    bottom: 40px;
+}
+.s-one a{
+    left: 110px;
+    bottom: 20px;
+}
+.yong{
+    margin-top: -100px;
+}
+.tupian{
+    width: 100%;
+    height: 106px;
+    margin-top: 30px;
+}
+.tupiant{
+    width: 1185px;
+    height: 106px;
+}
+.tupianone{
+    float: left;
+    margin-left:2px;
+}
+.tupiantwo{
+    float: left;
+    margin-left:2px;
+}
+.tupianthree{
+    float: left;
+    margin-left:2px;
+}
+.tupianfore{
+    float: left;
+    margin-left:3px;
+
+}
+.nei{
+    width: 100%;
+    height: 43px;
+}
+.neirong{
+    width: 1180px;
+    height:43px;
+}
+.mo{
+    margin-left: 28px;
+}
+.mo-one{
+    margin-left:40px;
+}
+.mo-two{
+    margin-left:40px;
+}
+.mo-three{
+    margin-left:40px;
+}
+
+
+
+
+
+.li{
+    width: 100%;
+    height:50px;
+    margin-top:27px;
+}
+.lione{
+    width: 1180px;
+    height:50px;
+}
+.litwo{
+    height:50px;
+    line-height:50px;
+    margin-left: 170px;
+}
+.lithree{
+    width: 100%;
+    height:25px;
+    margin-top: 5px;
+}
+.lifore{
+    width: 614px;
+    height:25px;
+}
+.lifore ul li{
+    float: left;
+    padding: 5px 28px 0 2px;
+    height:25px;
+    line-height: 25px;
+    font: bold 13px "宋体";
+    color: rgb(141, 139, 139);
+    text-align: center;
+}
+.xia{
+    width: 100%;
+    height: 224px;
+    margin-top: 56px;
+}
+.xiam{
+    width: 1180px;
+    height: 224px;
+   border-bottom: 1px solid #d2d2d2;
+}
+.xiamleft{
+    width: 573px;
+    height: 224px;
+    float: left;
+    border-right: 1px solid #d2d2d2;
+}
+.xiamright{
+    width: 567px;
+    height: 224px;
+    float: right;
+}
+.foot {
+    width: 399px;
+    height: 35px;
+    font-size: 12px;
+    margin-left: 130px;
+    color: #969696;
+    margin-top: 8px;
+}
+.foot:hover{
+    color: pink;
+}
+.sun{
+    width: 100%;
+    height: 224px;
+}
+.sunyan{
+    width: 1180px;
+    height: 224px;
+}
+.liu{
+    width: 100%;
+    height: 183px;
+    margin-top:30px;
+}
+.liuone{
+    width: 1180px;
+    height: 183px;
+}
+.heihei{
+    width: 400px;
+    height: 183px;
+    float: left;
+}
+.p{
+    width:280px;
+    height: 38px;
+    line-height: 38px;
+    margin-left:50px;
+    text-align: center;
+    margin-top: 15px;
+    color: grey;
+    border: 1px solid #d2d2d2;
+}
+.lala{
+    width:742px;
+    height: 183px;
+    float: right;
+}
+.pi{
+    font-size:15px;
+    color: black;
+    line-height: 20px;
+}
+.pi:hover{
+    color: pink;
+}
+.pihei{
+    font-size:15px;
+    color: grey;
+}
+.pihei:hover{
+    color: pink;
+}
+.ss{
+    width: 100%;
+    height:170px;
+    margin-top:35px;
+}
+.suu{
+    width: 1920px;
+    height: 170px;
+}
+.img-ii{
+    width: 1920px;
+    height: 170px;
+}
+.pp{
+    width: 100%;
+    height: 752px;
+    background-color: #313439;
+}
+.ppone{
+    width: 1180px;
+    height: 752px;
+}
+.wok{
+    width: 1180px;
+    height:290px;
+    border-bottom: 2px solid #5A5D61;
+}
+.erz{
+    margin-top:40px;
+}
+.k{
+    width: 100%;
+    height:174px;
+    background-color: #313439;
+    margin-top: -420px;
+}
+.ku{
+    width: 1180px;
+    height: 175px;
+}
+.kuleft{
+    float: left;
+    width: 556px;
+    height:175px;
+}
+.duone{
+    color:white;
+    font-size: 14px;
+    margin-top:12px;
+}
+.duone:hover{
+    color: pink;
+}
+.dutwo{
+    color:white;
+    font-size:13px;
+    margin-top: 14px;
+}
+.dutwo:hover{
+    color: pink;
+}
+.duthree{
+    color:white;
+    font-size: 20px;
+}
+.duthree:hover{
+    color: pink;
+}
+.kuright{
+    float: right;
+    width: 373px;
+    height: 174px;
+    margin-right:78px;
+}
+.userS{
+    width:160px;
+    height:20px;
+    float: right;
+    color: white;
+    font-family: "Microsoft YaHei";
+    position: absolute;
+    font-size:22px;
+    margin-left: 5px;
+}
+.userS:hover{
+    color: pink;
+}
+.user{
+    height:20px;
+    float: right;
+    color: white;
+    font-family: "Microsoft YaHei";
+    position: absolute;
+    margin-top: 54px;
+    margin-left:27px;
+    font-size:20px;
+}
+.user:hover{
+    color: pink;
+}
+.userone{
+    width:160px;
+    height:20px;
+    float: right;
+    color: white;
+    font-family: "Microsoft YaHei";
+    margin-top:92px;
+    position: absolute;
+    margin-left: 27px;
+    font-size: 18px;
+}
+.userone:hover{
+    color: pink;
+}
+.usertwo{
+    height:20px;
+    float: right;
+    color: white;
+    font-family: "Microsoft YaHei";
+    position: absolute;
+    margin-top:127px;
+    font-size:13px;
+    line-height:18px;
+    margin-left:27px;
+}
+.usertwo:hover{
+    color: pink;
+}
+.yu{
+    width: 100%;
+    height:92px;
+    background-color: #313439;
+    margin-top: 35px;
+}
+.yuone{
+    width: 1180px;
+    height: 92px;
+    border-bottom: 2px solid #5A5D61;
+}
+.imm{
+    position: absolute;
+
+}
+.Mei{
+    position: absolute;
+    color: white;
+    margin-left:62px;
+
+}
+.Mei:hover{
+    color: pink;
+}
+.Meione{
+    position: absolute;
+    margin-top:25px;
+    color: white;
+    margin-left:62px;
+    font-size:14px;
+}
+.Meione:hover{
+    color: pink;
+}
+.Meitwo{
+    position: absolute;
+    margin-top:40px;
+    color: white;
+    margin-left:62px;
+    margin-top:47px;
+    font-size: 15px;
+}
+.Meitwo:hover{
+    color: pink;
+}
+.ping{
+    width: 100%;
+    height:78px;
+    background-color: #313439;
+    margin-top:33px;
+}
+.pingone{
+    width: 1180px;
+    height:78px;
+    border:2px solid #5A5D61;
+}
+.pingp{
+    width: 450px;
+    float: left;
+
+}
+.pinpright{
+    width: 530px;
+    height: 100px;
+    float: right;
+    position: absolute;
+    margin-top: -200px;
+    margin-left:680px;
+}
+.ii{
+    width:80px;
+    height: 80px;
+    margin-top: 8px;
+}
+.aiya{
+    color: white;
+    font-size: 15px;
+    margin-top: -75px;
+    margin-left:100px;
+}
+.weisha{
+    color: white;
+    font-size:15px;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+.haha{
+    margin-left:340px;
+    margin-top: -50px;
+    position: absolute;
+}
+.hahaa{
+    position: absolute;
+    margin-left: 105px;
+    margin-top: 5px;
+}
+.Nen{
+    position: absolute;
+    margin-top:45px;
+}
+.Nenone{
+    position: absolute;
+    margin-top:100px;
+}
+.Nentwo{
+    position: absolute;
+    margin-top:137px;
+}
+.you{
+    color: white;
+    font-size: 15px;
+    height:23px;
+    line-height:23px;
+    margin-top: 5px;
+    font-family: "Microsoft YaHei";
+    padding: 11px 24px;
+}
+.you:hover{
+    color: pink;
+}
+.returnTop{
+    font-size:55px;
+    text-align: center;
+    color: red;
+    margin-top: -400px;
+}
+.boximg {
+    width: 140px;
+    height: 190px;
+    margin-top: 220px;
+    position: absolute;
+    right: 23px;
+}
+.tutu{
+    position: fixed;
+    bottom: 250px;
+    left: 10px;
+}
+.QING{
+    width:350px;
+    height:350px;
+    position: absolute;
+    right:8px;
+    margin-top: -1000px;
+}
+
+/*.img-oa div:nth-child(1) img{*/
+    /*width: 300px;*/
+    /*height: 200px;*/
+/*}*/
+
